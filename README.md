@@ -1,4 +1,9 @@
-# Foundry Rust Monorepo Template
+# MultiSend Smart Contract
+
+## Overview
+
+The MultiSend smart contract is a simple Ethereum smart contract written in Solidity that allows the owner to manage and distribute Ether to multiple addresses in a single transaction.
+
 
 ![Rust](https://github.com/gakonst/foundry-rust-template/workflows/Rust/badge.svg)
 ![Solidity](https://github.com/gakonst/foundry-rust-template/workflows/Solidity/badge.svg)
