@@ -1,5 +1,3 @@
 [workspace]
-members = ["app", "crates/bindings"]
-
-[workspace.dependencies]
-foundry-contracts = { path = "crates/bindings" }
+members = ["yew-app", "crates/bindings"]
+resolver = "2"
